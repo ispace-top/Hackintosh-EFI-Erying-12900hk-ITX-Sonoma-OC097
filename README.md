@@ -1,6 +1,6 @@
 ## 尔英 itx i9-12900hk主机黑苹果引导 
 
-[English](https://github.com/ispace-top/Hackintosh-EFI-Erying-12900hk-ITX-Sonoma-OC097/blob/main/README_en.md)
+- If you can not read Chinese, Please go to 👉🏻 [English](https://github.com/ispace-top/Hackintosh-EFI-Erying-12900hk-ITX-Sonoma-OC097/blob/main/README_en.md)
 1. ### 硬件配置：
    |硬件|品牌型号|规格|其他|
    |--|--|--|--|
@@ -21,7 +21,7 @@
    |**蓝牙** |正常|
    |**音频**| 正常|
    |**休眠** |正常|
-  |**启动速度**| 正常|
+   |**启动速度**| 正常|
 
   
 6. ### 目前问题
