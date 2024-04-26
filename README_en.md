@@ -13,11 +13,13 @@
    - MacOS: Sonoma 14.2.1
   
 4. ### Completeness
-   - **wifi works** fine
-   - **Bluetooth** works fine
-   - **Audio** works fine
-   -**Hibernate** works fine
-   - **Boot speed** works fine
+   |Function|state|
+   |-|-|
+   |**wifi works**| fine|
+   |**Bluetooth** |works fine|
+   |**Audio**| works fine|
+   |**Hibernate** |works fine|
+  |**Boot speed**| works fine|
   
-5. ### Current Issues
+6. ### Current Issues
    - There is no sound from the HDMI output of the graphics card, but the sound from the DP interface is normal.
