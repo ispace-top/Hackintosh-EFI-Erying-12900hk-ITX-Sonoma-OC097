@@ -15,7 +15,7 @@
 4. ### Completeness
    |Function|state|
    |-|-|
-   |**wifi works**| fine|
+   |**wifi**|  works fine|
    |**Bluetooth** |works fine|
    |**Audio**| works fine|
    |**Hibernate** |works fine|
