@@ -1,4 +1,5 @@
 ## Erying itx i9-12900hk host black apple boot
+[中文](https://github.com/ispace-top/Hackintosh-EFI-Erying-12900hk-ITX-Sonoma-OC097/blob/main/README.md)
 1. ### Hardware configuration:
    |Hardware|Brand Model|Specifications|Others|
    |--|--|--|--|
