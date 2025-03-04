@@ -29,6 +29,6 @@
 
 ### 📌注意事项
 BIOS设置建议：
-- VT-d: Disabled ←必须关闭！
-- CFG Lock: Disabled ←推荐禁用！
-- Secure Boot: Disabled ←安全启动必须关闭！
+- VT-d: Disabled  ← 必须关闭！
+- CFG Lock: Disabled  ← 推荐禁用！
+- Secure Boot: Disabled  ← 安全启动必须关闭！
