@@ -1,28 +1,54 @@
-## 尔英 itx i9-12900hk主机黑苹果引导 
+# 尔英 ITX i9-12900HK 主机黑苹果引导 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg)
 
-- If you can not read Chinese, Please go to 👉🏻 [English](https://github.com/ispace-top/Hackintosh-EFI-Erying-12900hk-ITX-Sonoma-OC097/blob/main/README_en.md)
-1. ### 硬件配置：
-   |硬件|品牌型号|规格|其他|
-   |--|--|--|--|
-   |内存|三星|DDR4 3200 16G x 2||
-   |硬盘1 |铠侠|M.2  RC20 1T||
-   |硬盘2 |幻影|M.2 幻影HV2000 Pro 1T||
-   |显卡 |AMD|RX5500XT-8G||
-   |无线网卡| Intel |AX210 006批次||
-     
-3. ### 软件版本：
-   - OC： 0.9.7
-   - MacOS：Sonoma 14.2.1
-  
-4. ### 完成度
-      |功能|状态|
-   |-|-|
-   |**无线网络**| 正常|
-   |**蓝牙** |正常|
-   |**音频**| 正常|
-   |**休眠** |正常|
-   |**启动速度**| 正常|
+> 🌍 **English Version Available** → [[Click Here]](./README_en.md) 
 
-  
-6. ### 目前问题
-   - 显卡hdmi输出无声音,dp接口声音正常。
+## 📦 项目简介
+本仓库提供适用于尔英i9-12900HK ITX主机的黑苹果（Hackintosh）OpenCore引导文件支持macOS Sonoma系统当前更新至14.2.1版本
+
+## 🚀 快速导航
+[📋 硬件配置](#-硬件配置) | 
+[💻 软件环境](#-软件环境) | 
+[✅ 功能状态](#-功能状态) | 
+[⚠️已知问题](#️已知问题)
+
+---
+
+## 📋 硬件配置
+| **组件**       | **品牌型号**                | **规格参数**               |
+|----------------|---------------------------|--------------------------|
+| CPU            | Intel Core i9-12900HK     | 主板集成Alder Lake-H (移动版处理器) |
+| RAM            | Samsung DDR4              | 3200MHz 16GB×2          |
+| Primary SSD    | Kioxia RC20               | M.2 NVMe PCIe 1TB       |
+| Secondary SSD  丨Phantom HV2000 Pro     丨M.2 NVMe PCIe 1TB      丨
+｜GPU            丨AMD Radeon RX5500XT     丨8GB GDDR6                丨
+｜Wireless Card  丨Intel AX210            ｜WiFi6/BT5.3 (批次006)     |
+
+---
+
+## 💻 软件环境
+```
+🛠 OpenCore: v0.9.7
+🍎 macOS: Sonoma v14.2.1
+```
+
+## ⚠️已知问题  
+❗ HDMI音频输出异常
+
+
+
+<details>
+<summary>📌注意事项</summary>
+BIOS设置建议：
+```bash
+VT-d: Disabled ←必须关闭！
+CFG Lock: Disabled ←推荐禁用！
+Secure Boot: Disabled ←安全启动必须关闭！
+```
+
+</details>
+
+---
+
+🙏特别感谢：[OCAT团队](链接)| [Acidanthera组织](链接)
+📄 License：[CC BY-NC-SA4.0](./LICENSE)
+```
