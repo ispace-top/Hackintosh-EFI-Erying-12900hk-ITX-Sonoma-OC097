@@ -7,14 +7,14 @@
 
 ### 📋 硬件配置
 
-| **组件**| **品牌型号**| **规格参数**|
-|--|--|--|
-| CPU | Intel Core i9-12900HK| 主板集成Alder Lake-H (移动版处理器)|
-| RAM|Samsung DDR4|3200MHz 16GB×2|
-| Primary SSD| Kioxia RC20| M.2 NVMe PCIe 1TB|
-| Secondary SSD |Phantom HV2000 Pro|M.2 NVMe PCIe 1TB丨
-|GPU丨AMD Radeon RX5500XT丨8GB GDDR6丨
-|Wireless Card丨Intel AX210｜WiFi6/BT5.3 (批次006)|
+| **组件**| **品牌**|**型号**| **规格参数**|
+|--|--|--|--|
+| CPU | Intel|  Core i9-12900HK| 主板集成Alder Lake-H (移动版处理器)|
+| 内存|三星 | - |3200MHz 16GB×2 DDR4|
+| SSD①| 铠侠|  RC20| M.2 NVMe PCIe 1TB|
+| SSD② |幻影|  HV2000 Pro|M.2 NVMe PCIe 1TB| 
+|显卡| AMD|  Radeon RX5500XT| 8GB GDDR6| 
+|无线网卡| Intel| Intel AX210| WiFi6/BT5.3 (批次006)| 
 
 
 ### 💻 软件环境
