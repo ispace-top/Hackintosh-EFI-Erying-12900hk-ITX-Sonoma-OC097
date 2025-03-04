@@ -3,7 +3,7 @@
 > 🌍 **English Version Available** → [[Click Here]](./README_en.md) 
 
 ### 📦 项目简介
-本仓库提供适用于尔英i9-12900HK ITX主机的黑苹果（Hackintosh）OpenCore引导文件支持macOS Sonoma系统当前更新至14.2.1版本
+本仓库提供了适用于尔英 G660I i9-12900HK ITX主板的黑苹果（Hackintosh）OpenCore引导文件。
 
 ### 📋 硬件配置
 
