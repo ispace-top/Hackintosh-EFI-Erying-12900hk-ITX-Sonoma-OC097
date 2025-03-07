@@ -1,4 +1,4 @@
-## 尔英 ITX i9-12900HK 主机黑苹果引导 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+## 尔英 ITX i9-12900HK 主机黑苹果引导 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.2-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 > 🌍 **English Version Available** → [[Click Here]](./README_en.md) 
 
@@ -18,8 +18,8 @@
 
 
 ### 💻 软件环境
-- 🛠 OpenCore: v0.9.7
-- 🍎 macOS: Sonoma v14.2.1
+- 🛠 OpenCore: v1.0.2
+- 🍎 macOS: Sonoma v14.6.1
 
 
 ### ⚠️已知问题  
