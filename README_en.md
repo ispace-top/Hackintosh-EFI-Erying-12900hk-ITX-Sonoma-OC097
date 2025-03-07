@@ -1,4 +1,4 @@
-## Hackintosh OpenCore Guide for Erying ITX i9-12900HK System [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+## Hackintosh OpenCore Guide for Erying ITX i9-12900HK System [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.2-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 > 🌍 **中文版本** → [[点击此处]](./README.md) 
 
@@ -18,8 +18,8 @@ This repository provides OpenCore bootloader configurations for Erying G660I i9-
 
 
 ### 💻 Software Environment
-- 🛠 OpenCore: v0.9.7
-- 🍎 macOS: Sonoma v14.2.1
+- 🛠 OpenCore: v1.0.2
+- 🍎 macOS: Sonoma v14.6.1
 
 
 ### ⚠️ Known Issues  
